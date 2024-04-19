@@ -12,7 +12,7 @@ Ce projet comprend un serveur et un client en langage C qui permettent la transm
 1. Clonez ce dépôt sur votre machine locale :
 
    ```
-   git clone https://github.com/votre_nom_utilisateur/FileTransferTCP.git
+   git clone https://github.com/AnisHanniz/FileTransfer-TCP.git
    ```
 
 2. Accédez au répertoire du projet :
